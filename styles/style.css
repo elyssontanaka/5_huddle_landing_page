@@ -43,6 +43,7 @@ button {
     font-size: 1.2rem;
     margin-top: .8rem;
     cursor: pointer;
+    box-shadow: 3px 5px 5px 0 rgba(71, 70, 70, 0.507);
 }
 
 button:hover {
@@ -105,7 +106,7 @@ p.description {
     border-color: var(--icon-hover);
 }
 
-.sm-box:hover > i{
+.sm-box:hover>i {
     color: var(--icon-hover);
 }
 
@@ -113,7 +114,7 @@ p.description {
     color: var(--text-colors);
 }
 
-.fab:hover{
+.fab:hover {
     color: var(--primary-soft-magenta);
 }
 
@@ -168,13 +169,11 @@ p.description {
     }
 
     .info-container {
-        padding-left: 2rem;
+        padding: 0 2rem;
         width: 43%;
         position: relative;
-        bottom: 5.5rem;
+        bottom: 6.2rem;
     }
-
-
 
     .title {
         font-size: 3.9rem;
@@ -186,9 +185,7 @@ p.description {
 
     button {
         padding: 1.4rem 6rem;
-        border-style: none;
         border-radius: 3rem;
-        color: var(--primary-violet);
         font-size: 1.8rem;
         margin-top: 1rem;
     }
@@ -201,7 +198,6 @@ p.description {
         width: 4rem;
         height: 4rem;
         border: 1px solid white;
-        border-radius: 50%;
         margin: 0 .8rem;
     }
 
