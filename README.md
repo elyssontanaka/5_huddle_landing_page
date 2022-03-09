@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My solution]()
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/huddle-landing-page-using-flexbox-qif_oWSqK)
 - Live Site URL: [Huddle Landing Page](https://elyssontanaka.github.io/5_huddle_landing_page/)
 
 
